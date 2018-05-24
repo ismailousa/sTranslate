@@ -16,7 +16,7 @@ public class GoogleTranslate {
         
     }
     
-    public var apiKey = "AIzaSyDa0ewdKIrNo7nxG0DTlLUTtVdUhdRNHLo"
+    public var apiKey = "APIKEY"
     
     func translate(message: String) -> String{
         var translation = "Null"
